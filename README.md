@@ -38,8 +38,7 @@ Acknowledgement
 We are especially grateful to the creators of the pandas and numpy libraries for their contributions, which offer strong Python tools for data analysis and manipulation.
 
 
- Acknowledgement
-We are especially grateful to the creators of the pandas and numpy libraries for their contributions, which offer strong Python tools for data analysis and manipulation.
+
 
 
 
